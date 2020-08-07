@@ -1,4 +1,4 @@
-- name: Upload S3
+name: Upload S3
   uses: shallwefootball/upload-s3-action@v1.1.1
   with:
     # aws key id
